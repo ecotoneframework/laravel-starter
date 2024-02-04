@@ -22,7 +22,8 @@
   "autoload-dev": {},
   "require": {
     "ecotone/laravel": "^1.0",
-    "ecotone/jms-converter": "^1.0"
+    "ecotone/jms-converter": "^1.0",
+    "ecotone/dbal": "^1.0"
   },
   "require-dev": {},
   "extra": {}
